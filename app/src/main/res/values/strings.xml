@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quiz de Matemática</string>
+
+    <string name="question1">Calcule 5+5*5+5</string>
+
+    <string name="q1_hint">0</string>
+
+    <string name="question2">Um pedreiro é capaz de assentar 8 metros de tijolo por dia. Quantos metros esse pedreiro consegue assentar em 15 dias?</string>
+
+    <string name="q2_option1">110</string>
+    <string name="q2_option2">120</string>
+    <string name="q2_option3">130</string>
+    <string name="q2_option4">200</string>
+
+    <string name="question3">3 horas equivalem a...</string>
+
+    <string name="q3_option1">10800 segundos</string>
+    <string name="q3_option2">90 minutos</string>
+    <string name="q3_option3">180 minutos</string>
+    <string name="q3_option4">3000 segundos</string>
+
+    <string name="question4">Quantos meses correspondem 240 dias?</string>
+
+    <string name="q4_option1">10 meses</string>
+    <string name="q4_option2">8 meses</string>
+    <string name="q4_option3">6 meses</string>
+    <string name="q4_option4">12 meses</string>
+
+    <string name="question5">Passei um terço da metade de um mês no litoral, quantos dias eu estive no litoral?</string>
+
+    <string name="q5_option1">5</string>
+    <string name="q5_option2">30</string>
+    <string name="q5_option3">15</string>
+    <string name="q5_option4">10</string>
+
+    <string name="ending">Finalizar</string>
+
+    <string name="totalPoints">Resultado</string>
+
+    <string name="tryAgain">Reiniciar</string>
+
+</resources>
